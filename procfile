@@ -1,1 +1,1 @@
-web:gunicorn SearchIt.wsgi
+web:gunicorn search_it.wsgi
